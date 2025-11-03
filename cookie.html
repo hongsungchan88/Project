@@ -1,0 +1,25 @@
+<!---------------------------------------------------------------------------------------------
+	제목 : 내 손으로 만드는 PHP 쇼핑몰무 따라하기 (실습용 디자인 HTML)
+
+	소속 : 인덕대학교 컴퓨터소프트웨어학과
+	이름 : 교수 윤형태 (2024.02)
+---------------------------------------------------------------------------------------------->
+<html>
+<head>
+    <title>Cookie</title>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+</head>
+<body>
+
+<form name="form1" method="post" action="cookie_save.php">
+
+쿠키 : <input type="text" name="name" value="">
+<input type="submit" value="저장하기">
+<input type="reset"  value="지우기">
+<br><br>
+
+</form>
+
+</body>
+</html>
+
